@@ -120,7 +120,7 @@
 					/obj/effect/proc_holder/spell/invoked/necras_sight			= CLERIC_T0,
 					/obj/effect/proc_holder/spell/invoked/lesser_heal 			= CLERIC_T1,
 					/obj/effect/proc_holder/spell/invoked/avert					= CLERIC_T1,
-					/obj/effect/proc_holder/spell/invoked/deaths_door			= CLERIC_T1,
+//					/obj/effect/proc_holder/spell/invoked/deaths_door			= CLERIC_T1, //This spell is VERY busted and can RR. Soft-disabled until someone fixes the damn thing.
 					/obj/effect/proc_holder/spell/targeted/abrogation			= CLERIC_T2,
 	)
 	confess_lines = list(
